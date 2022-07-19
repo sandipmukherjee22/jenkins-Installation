@@ -23,3 +23,4 @@ sudo ufw allow OpenSSH
 sudo ufw enable
 sudo ufw status
 http://your_server_ip_or_domain:8080
+cat /var/lib/jenkins/secrets/initialAdminPassword
